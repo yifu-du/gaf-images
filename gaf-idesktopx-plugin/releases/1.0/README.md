@@ -1,3 +1,3 @@
 ## 1.0版本
-<a href="./GAF.jar" target="_blank">下载</a> 2021/6/7 
+[下载](https://raw.githubusercontent.com/yifu-du/gaf-images/main/gaf-idesktopx-plugin/releases/1.0/GAF.jar)
 
